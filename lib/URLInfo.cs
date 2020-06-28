@@ -84,10 +84,10 @@ namespace URLInfo
                 }
                 if (SearchStr != "")
                 {
-                    params_T = SearchStr.Replace("?", "").Split("&");
+                    params_T = SearchStr.Replace("?", "").Split('&');
                     foreach (var p in params_T)
                     {
-                        var tt = p.Split("=");
+                        var tt = p.Split('=');
                         URLParam.Add(tt[0], tt.Length > 1 ? tt[1] : "");
                     }
                 }

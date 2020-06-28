@@ -45,4 +45,3 @@ Pass into JObject object,if someone key error,the key and it's value will be abo
 pass into JSON serialize string,JSON will be unserialize to JOject.If JSON string is error then return false.
 #### 5. public override string ToString()
 获取一个整合后的URL字符串
-}

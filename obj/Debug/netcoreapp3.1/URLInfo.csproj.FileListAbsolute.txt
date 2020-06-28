@@ -1,0 +1,15 @@
+E:\C#sdutyProject\URLInfo\bin\Debug\netcoreapp3.1\URLInfo.exe
+E:\C#sdutyProject\URLInfo\obj\Debug\netcoreapp3.1\URLInfo.csprojAssemblyReference.cache
+E:\C#sdutyProject\URLInfo\obj\Debug\netcoreapp3.1\URLInfo.AssemblyInfoInputs.cache
+E:\C#sdutyProject\URLInfo\obj\Debug\netcoreapp3.1\URLInfo.AssemblyInfo.cs
+E:\C#sdutyProject\URLInfo\bin\Debug\netcoreapp3.1\URLInfo.deps.json
+E:\C#sdutyProject\URLInfo\bin\Debug\netcoreapp3.1\URLInfo.runtimeconfig.json
+E:\C#sdutyProject\URLInfo\bin\Debug\netcoreapp3.1\URLInfo.runtimeconfig.dev.json
+E:\C#sdutyProject\URLInfo\bin\Debug\netcoreapp3.1\URLInfo.dll
+E:\C#sdutyProject\URLInfo\bin\Debug\netcoreapp3.1\URLInfo.pdb
+E:\C#sdutyProject\URLInfo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\C#sdutyProject\URLInfo\obj\Debug\netcoreapp3.1\URLInfo.csproj.CoreCompileInputs.cache
+E:\C#sdutyProject\URLInfo\obj\Debug\netcoreapp3.1\URLInfo.csproj.CopyComplete
+E:\C#sdutyProject\URLInfo\obj\Debug\netcoreapp3.1\URLInfo.dll
+E:\C#sdutyProject\URLInfo\obj\Debug\netcoreapp3.1\URLInfo.pdb
+E:\C#sdutyProject\URLInfo\obj\Debug\netcoreapp3.1\URLInfo.genruntimeconfig.cache

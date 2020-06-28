@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n+MnUPKhwYzVZKK0ZTtxvU3m3PVFFdBRiTu5gis/rTh3DxwvcRdDi6FIi6bYsPWz4klffxE8lYJRC97Su8bM6g==",
+  "success": true,
+  "projectFilePath": "E:\\C#sdutyProject\\URLInfo\\URLInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

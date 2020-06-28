@@ -30,7 +30,7 @@ namespace URLInfo
         /// 
         /// </summary>
         /// <param name="URL">URL string</param>
-        /// <param name="IsRouteMode">is simply Route Mode,simply MVG mode</param>
+        /// <param name="IsRouteMode">is simply Route Mode,simply MVC mode</param>
         public URLInfo(string URL = "", Boolean IsRouteMode = false)
         {
             URLParam = new Dictionary<string, string>();

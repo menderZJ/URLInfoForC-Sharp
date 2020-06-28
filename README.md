@@ -2,9 +2,9 @@
 a class for parse protocol,domain,file,seachstring,anchor,urlparams from a URLstring.
 The class file path is /lib/URLInfo.cs
 Please copy the class file into you project,and use namespace URLInfo like on your code file:
-`
-namespace URLInfo;
-`
+```
+use namespace URLInfo;
+```
 The solution file `URLInfo.sln` is a test demo for class  URLInfo.
 
 ## 1. APIs
